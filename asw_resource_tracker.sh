@@ -1,4 +1,7 @@
-#Author: Asim Sk
+#!/usr/bin/sh
+
+
+##Author: Asim Sk
 #Date: 5th-March
 #
 #version: v1
